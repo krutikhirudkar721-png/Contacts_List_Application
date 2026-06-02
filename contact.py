@@ -15,7 +15,6 @@ class Contact:
 
 # ---------- Data Handling ----------
 contacts = []
-
 def load_contacts():
     global contacts
     if os.path.exists("contacts.json"):
