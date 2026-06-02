@@ -2,6 +2,7 @@ import json
 import os
 import tkinter as tk
 from tkinter import messagebox
+
 # ---------- Contact Class ----------
 class Contact:
     def __init__(self, name, phone):
