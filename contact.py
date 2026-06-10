@@ -12,7 +12,6 @@ class Contact:
     def to_dict(self):
         return {"name": self.name, "phone": self.phone}
 
-
 # ---------- Data Handling ----------
 contacts = []
 def load_contacts():
