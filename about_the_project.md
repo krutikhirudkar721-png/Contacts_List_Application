@@ -1,6 +1,6 @@
 # 📱 Contact Management System
-# 📖 Project Description
 
+# 📖 Project Description
 The Contact Management System is a Python-based application that allows users to store and manage their contacts efficiently. Similar to a smartphone contacts app, it enables users to add, view, search, update, and delete contact information. All data is stored permanently using JSON, ensuring contacts remain available even after the program is closed.
 
 # ✨ Features
